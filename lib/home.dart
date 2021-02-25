@@ -11,7 +11,7 @@ class Home extends StatefulWidget {
 class _LoginState extends State<Home> {
   AuthService auService = AuthService();
 
-  String type = 'superhero';
+  String type = 'superheroAAAAAAA';
 
   @override
   Widget build(BuildContext context) {
